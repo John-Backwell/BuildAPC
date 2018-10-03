@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/cs/student/ug/2018/backwell/Dev/CircuitDiagrams/simulation/qsim
+vHalfadder
+Z1 !s110 1538563297
+!i10b 1
+!s100 YA_l3ZD?G^BNmhmX63@HM2
+IaoHW9k[6T?GY^8o3:K3D?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1538563291
+Z4 8Gate1.vo
+Z5 FGate1.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1538563296.000000
+Z8 !s107 Gate1.vo|
+Z9 !s90 -work|work|Gate1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@halfadder
+vHalfadder_vlg_vec_tst
+R1
+!i10b 1
+!s100 LCBIm:BICfN:9FedAbh]H1
+I<NBbLD4Ab0YJH8WNg3:dU0
+R2
+R0
+w1538563290
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1538563297.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@halfadder_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 9YRF0XiF85;T6Z8:LPLDf0
+IGLS90l<;a@ZEfa2Y2[TlN2
+R2
+R0
+R3
+R4
+R5
+L0 264
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
